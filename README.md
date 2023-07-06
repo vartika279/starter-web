@@ -9,4 +9,6 @@ purpose is to learn git and github.
 deployment can be on any server.
 
 ## How to contribute  
+## Copyright
+copyright 2019
 
