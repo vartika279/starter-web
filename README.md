@@ -13,5 +13,6 @@ deployment can be on any server.
 fork it from the link
 
 ## Copyright
-copyright 2019
+copyright 2019.all right reserved
+
 
