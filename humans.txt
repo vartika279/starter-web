@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    vartika
 
 # TECHNOLOGY COLOPHON
 
